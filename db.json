@@ -1,0 +1,29 @@
+{
+  "questions": [
+    {
+      "question": "Select that is not scripted language.",
+      "options": ["python", "php", "java script", "Go lang"],
+      "answer": "4"
+    },
+    {
+      "question": "next.js is javascript based framework.",
+      "options": ["O", "X"],
+      "answer": "1"
+    },
+    {
+      "question": "REST is standard across the globe.",
+      "options": ["O", "X"],
+      "answer": "2"
+    },
+    {
+      "question": "What is not related to CRUD",
+      "options": ["Create", "Read", "Update", "Delete", "Select"],
+      "answer": "5"
+    },
+    {
+      "question": "Which course does Professor Christoforus teach.",
+      "options": ["CUS1167", "CUS1150", "CUS1172", "CUS1130"],
+      "answer": "3"
+    }
+  ]
+}
