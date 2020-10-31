@@ -25,5 +25,80 @@
       "options": ["CUS1167", "CUS1150", "CUS1172", "CUS1130"],
       "answer": "3"
     }
+    {
+      "question": "Which is the standard language used to create Web pages",
+      "options": ["HTML", "DHTML", "XML", "H5"],
+      "answer": "1"
+    },
+    {
+      "question": "Which tag allows to add a row in a table?",
+      "options": ["<td></td>", "<tr></tr>"],
+      "answer": "2"
+    },
+    {
+      "question": "Using Fake API server has size limit",
+      "options": ["O", "X"],
+      "answer": "1"
+    },
+    {
+      "question": "What is elated to CRUD",
+      "options": ["Create", "Read", "Update", "Delete", "Select"],
+      "answer": "1"
+    },
+    {
+      "question": "Which tag can make numbered list",
+      "options": ["<dl>", "<ol>", "<list>", "<ul>"],
+      "answer": "2"
+    }
+    {
+      "question": "What is correct tag for line break",
+      "options": ["<lb>", "<break>", "<new>", "<br>"],
+      "answer": "4"
+    },
+    {
+      "question": "1+1 is equal to 0",
+      "options": ["O", "X"],
+      "answer": "2"
+    },
+    {
+      "question": "Which of the following is related to font tag",
+      "options": ["size", "face", "color", "All of the above"],
+      "answer": "4"
+    },
+    {
+      "question": "Which tag adds a line horizontally",
+      "options": ["<line>", "<tr>", "<br>", "<hr>"],
+      "answer": "5"
+    },
+    {
+      "question": "which tag makes bullet lists",
+      "options": ["<list>", "<ol>", "<br>", "<ul>"],
+      "answer": "4"
+    }
+    {
+      "question": "Select that is not scripted language.",
+      "options": ["python", "php", "java script", "Go lang"],
+      "answer": "4"
+    },
+    {
+      "question": "next.js is javascript based framework.",
+      "options": ["O", "X"],
+      "answer": "1"
+    },
+    {
+      "question": "REST is standard across the globe.",
+      "options": ["O", "X"],
+      "answer": "2"
+    },
+    {
+      "question": "What is not related to CRUD",
+      "options": ["Create", "Read", "Update", "Delete", "Select"],
+      "answer": "5"
+    },
+    {
+      "question": "Which course does Professor Christoforus teach.",
+      "options": ["CUS1167", "CUS1150", "CUS1172", "CUS1130"],
+      "answer": "3"
+    }
   ]
 }
